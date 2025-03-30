@@ -10,8 +10,8 @@ This simulation covers the area around Wolverhampton within the county of the We
 | Track Plan     | :heavy_check_mark: |
 | Signalling      | :heavy_check_mark:      |
 | Naming | :heavy_check_mark:      |
-| Speed Limits | :x: |
-| Distances | :x: |
+| Speed Limits | :heavy_check_mark: |
+| Distances | :heavy_check_mark: |
 | Timetable | :heavy_check_mark: |
 | Documentation | :x: |
 
