@@ -13,10 +13,11 @@ This simulation covers the area around Wolverhampton within the county of the We
 | Speed Limits | :heavy_check_mark: |
 | Distances | :heavy_check_mark: |
 | Timetable | :heavy_check_mark: |
-| Documentation | :x: |
+| Documentation | :heavy_check_mark: |
 
 
 ## Data Sources
 - [Raildar](https://raildar.co.uk/)
 - [OpenTrainTimes](https://www.opentraintimes.com/)
 - [Traksy](https://traksy.uk/live)
+- [Map Meurisse](https://map.meurisse.org/)
