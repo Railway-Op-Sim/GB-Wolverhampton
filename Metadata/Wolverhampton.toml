@@ -1,0 +1,15 @@
+rly_file = "Wolverhampton.rly"
+ttb_files = [ "Wolverhampton_March_28_2025_0600.ttb",]
+img_files = [ "Wolverhampton.bmp",]
+doc_files = [ "README.md",]
+release_date = "2025-03-30"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2025
+display_name = "Wolverhampton"
+name = "Wolverhampton"
+signal_position = "left"
+author = "Kristian Zarębski"
+contributors = []
